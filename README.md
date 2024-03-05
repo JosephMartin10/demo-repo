@@ -1,0 +1,1 @@
+Hello, my name is Joseph Martin and I am a Computer Engineering Major at Mississippi State University. I have hobbies that include collecting vintage computers, reading books and CRT repair. I am a part of a team in Capstone Design 1 that is designing an auto adjusting antenna.
